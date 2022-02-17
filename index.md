@@ -1,5 +1,5 @@
-theme: minima
 ---
+theme: minima
 title: "Welcome to my blog COSIITA"
 ---
 
